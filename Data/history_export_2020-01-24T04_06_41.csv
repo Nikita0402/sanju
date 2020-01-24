@@ -1,16 +1,5 @@
-LAT;;;;;13.5500;13.5500;13.5500;13.5500
-LON;;;;;-88.8167;-88.8167;-88.8167;-88.8167
-ASL;;;;;481.000;481.000;481.000;481.000
-CITY;;;;;India;India;India;India
-DOMAIN;;;;;NEMSCAM;NEMSCAM;NEMSCAM;NEMSCAM
-LEVEL;;;;;2 m above gnd;2 m above gnd;MSL;sfc
-NAME;;;;;Temperature;Relative Humidity;Mean Sea Level Pressure;Total Precipitation (high resolution)
-UNIT;;;;;°C;%;hPa;mm
-AGGREGATION;;;;;;;;
-UTC_OFFSET;;;;;-6;-6;-6;-6
 
-Year;Month;Day;Hour;Minute;Temperature  [2 m above gnd];Relative Humidity  [2 m above gnd];Mean Sea Level Pressure  [MSL];Total Precipitation (high resolution)  [sfc]
-2020;01;17;00;00;20.78;73.00;1013.40;0.00
+Year;Month;Day;Hour;Minute;Temperature  
 2020;01;17;01;00;20.29;76.00;1013.10;0.00
 2020;01;17;02;00;20.06;77.00;1012.80;0.00
 2020;01;17;03;00;19.93;77.00;1012.40;0.00
